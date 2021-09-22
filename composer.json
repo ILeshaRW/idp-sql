@@ -1,0 +1,11 @@
+{
+  "name": "lesharw/idp-dql-backend",
+  "description": "Макеты таблиц описанием",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
